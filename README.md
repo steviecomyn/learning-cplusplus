@@ -1,2 +1,3 @@
 # learning-cplusplus
-C++ Programs from my College classes
+
+Here I will post my work as I learn to program in C++.
