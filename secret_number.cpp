@@ -25,7 +25,7 @@ int main()
 		cin >> user_guess;
 		
 		// Add's 1 to the Guess Counter.
-		guess_count=guess_count+1;
+		guess_count++;
 		
 		// Two if statements to give the user a hint.
 		if (user_guess>secret_number)
