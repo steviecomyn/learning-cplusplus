@@ -8,7 +8,7 @@ using namespace std;
     the total memory used and the average size of these files.
 
     Author: Stevie Comyn
-    Date Written: 18th Feb 2017
+    Date Written: 18th Feb 2017.
 */
 
 int main() {
