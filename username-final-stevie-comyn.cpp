@@ -7,6 +7,8 @@ using namespace std;
 
      Author: Stevie Comyn
      Date Written: 18th Feb 2017
+     
+     compile: g++ username.cpp
 */
 
 string usernameGenerator(string firstName, string lastName);
