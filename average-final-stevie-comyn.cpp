@@ -10,7 +10,7 @@ using namespace std;
     Author: Stevie Comyn
     Date Written: 18th Feb 2017.
     
-    compile: g++ username.cpp
+    compile: g++ average.cpp
 */
 
 int main() {
